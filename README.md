@@ -8,3 +8,5 @@ And the php backend src for validation of the hardware ids from the current user
 And set a secret key for the encryption/decryption for the server side validation, after it add the AntiDebug too before u write ur main functions of your script, ye that's all, enjoy!
 
 Client-Side / Server-Side Encryption/Decryption Algorithm.
+
+For Questions / help etc -> [<a href="https://t.me/Fhivo">Click me</a>]
