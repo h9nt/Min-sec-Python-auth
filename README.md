@@ -9,4 +9,6 @@ And set a secret key for the encryption/decryption for the server side validatio
 
 Client-Side / Server-Side Encryption/Decryption Algorithm.
 
-For Questions / help etc -> [<a href="https://t.me/Fhivo">Click me</a>]
+For Questions / help etc make a issue, 
+
+Soon new secure version.
