@@ -9,6 +9,8 @@ And set a secret key for the encryption/decryption for the server side validatio
 
 Client-Side / Server-Side Encryption/Decryption Algorithm.
 
+- Credits to (**@xtekky**) for the AntiDebug function 
+
 For Questions / help etc make a issue, 
 
 Soon new secure version.
